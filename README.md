@@ -31,12 +31,9 @@ mrttaqrhknsw ih puggrur
 ```
 
 **Key:**
-```bash
-python
 
 **Output after decryption:**
 
-```
 your original decrypted message will appear here
 
 
@@ -48,10 +45,7 @@ your original decrypted message will appear here
 2. Save the script as `cipher.py`.
 3. Run it:
 
-
-
 python cipher.py
-
 
 ---
 
