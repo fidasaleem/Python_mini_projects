@@ -31,9 +31,9 @@ mrttaqrhknsw ih puggrur
 ```
 
 **Key:**
-
+```bash
 **Output after decryption:**
-
+```
 your original decrypted message will appear here
 
 
