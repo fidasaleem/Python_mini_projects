@@ -26,18 +26,17 @@ This script defines three main functions:
 
 **Encrypted text:**
 
+```bash
 mrttaqrhknsw ih puggrur
-
+```
 
 **Key:**
-
-
+```bash
 python
-
 
 **Output after decryption:**
 
-
+```
 your original decrypted message will appear here
 
 
